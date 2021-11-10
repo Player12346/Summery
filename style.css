@@ -1,0 +1,39 @@
+.main{
+    margin: auto    ;
+}
+.name{
+width: 330px;    
+}
+img{
+    border-radius: 100%;
+}
+.main{
+    border: thin;
+}
+
+.first{
+    border: thin;
+    margin-left: 15px;
+}
+.second{
+    border: thin;
+    width: 350px;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+}
+.knop{
+    display: table;
+    margin: auto;
+    background-color: green;
+    border: 2px inset black;
+font-size: 30px;
+}
+.free{
+    box-shadow: 0 0 10px black;
+    margin-left: 10px;
+}
+.fron{
+    box-shadow: 0 0 10px black; 
+}
